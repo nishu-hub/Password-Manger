@@ -2,6 +2,11 @@
 
 A simple Password Manager built with **Python**, **Streamlit**, and **SQLite** that allows users to generate, store, view, and manage passwords through a clean web interface.
 
+## 🌐 Live Demo
+
+https://password-manger-ndf9.onrender.com
+
+
 ## 🚀 Features
 
 * Generate strong random passwords
